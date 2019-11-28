@@ -1,3 +1,3 @@
 Test-fil: Git
 -----------------
-Changes were made.
+A commit were made.
